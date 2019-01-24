@@ -4,5 +4,6 @@
 alert('Hello world and everybody');
 alert('Hello to you too');
 alert('Hello my dear friend');
+alert('Glad to see you');
 
 </script>
